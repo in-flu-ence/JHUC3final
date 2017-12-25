@@ -92,3 +92,7 @@ Removal of any temporary dataframe that is not required as output to minimize me
 | activity            | Activity labels (Total: 6 unique categories)                                          |
 | subject             | Subject id (Total: 30 unique categories)                                              |
 | f_body_acc_mean_x\*  | Average value of the measured accelerometer signal mean with reference to the body in the x direction.<br/> \*The subsequent 65 columns are the average value named similarly to f_body_acc_mean_x<br/> (ie. domain_reference_signal_aggregation_axis)                                |
+
+## System Used
+R Version (3.4.2)
+Linux 64-bit
